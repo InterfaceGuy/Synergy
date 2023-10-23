@@ -1,2 +1,2 @@
-[](Synergy.gif)
-[](Synergy.key)
+![](Synergy.gif)
+![](Synergy.key)
