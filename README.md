@@ -1,0 +1,2 @@
+![[Synergy
+.gif]]![[Synergy.key]]
